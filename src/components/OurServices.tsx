@@ -2,7 +2,7 @@ export default () => {
   return(
     <div className="mt-20 px-5 md:px-16">
       <div className="flex items-center gap-10">
-        <strong className="text-7xl">
+        <strong className="text-4xl md:text-7xl">
           Nossos serviços
         </strong>
 

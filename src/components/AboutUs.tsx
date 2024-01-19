@@ -5,7 +5,7 @@ export default () => {
   return(
     <div className="min-h-screen px-5 md:px-16 bg-gradient-to-t to-transparent to-95% via-black via-70% from-black">
       <div className="mt-20 flex items-center gap-10">
-        <strong className="text-7xl">
+        <strong className="text-4xl md:text-7xl">
           Sobre nós
         </strong>
 

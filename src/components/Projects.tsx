@@ -9,7 +9,7 @@ export default () => {
     <div className="mt-20 px-5 md:px-16 w-full">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
         <div className="flex items-center gap-5">
-          <strong className="text-7xl">
+          <strong className="text-4xl md:text-7xl">
             Projetos
           </strong>
 

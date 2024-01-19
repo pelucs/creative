@@ -1,7 +1,7 @@
 export default () => {
   return(
     <div className="min-h-screen px-5 md:px-16 py-20 bg-black">
-      <strong className="text-7xl">
+      <strong className="text-4xl md:text-7xl">
         Entre em contato
       </strong>
 
